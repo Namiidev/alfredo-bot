@@ -1,0 +1,17 @@
+{
+  "name": "alfredobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "NamiiDev",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0"
+  }
+}
